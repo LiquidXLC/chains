@@ -1,0 +1,26 @@
+{
+  "name": "Liquidchain Network",
+  "chain": "Liquidchain",
+  "network": "mainnet",
+  "rpc": [
+    "https://rpc.liquidchain.net/",
+    "https://rpc.xlcscan.com/"
+  ],
+  "faucets": ["https://faucet.liquidchain.net/"],
+  "nativeCurrency": {
+    "name": "XLC",
+    "symbol": "XLC",
+    "decimals": 18
+  },
+  "infoURL": "https://liquidchain.net/",
+  "shortName": "xlc",
+  "chainId": 5050,
+  "networkId": 5050,
+  "icon": "xlc",
+  "explorers": [{
+    "name": "xlcscan",
+    "url": "https://xlcscan.com/",
+    "icon": "xlcscan",
+    "standard": "EIP225"
+  }]
+}
